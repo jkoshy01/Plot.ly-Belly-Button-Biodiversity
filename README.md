@@ -91,7 +91,7 @@ You will need to modify the example gauge code to account for values ranging fro
 
 
 
-Update the chart whenever a new sample is selected.
+Update the chart whenever a new sample is set and change it.
 
 
 
