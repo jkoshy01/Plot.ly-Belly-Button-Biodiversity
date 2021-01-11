@@ -30,28 +30,28 @@ You will need to create a bubble chart that displays each sample.
 
 
 
-Use otu_ids for the x values.
+Use the otu_ids for the x values.
 
 
-Use sample_values for the y values.
+Use the sample_values for the y values.
 
 
-Use sample_values for the marker size.
+Use the sample_values for the marker size.
 
 
-Use otu_ids for the marker colors.
+Use the  otu_ids for the marker colors.
 
 
-Use otu_labels for the text values.
-
-
-
+Use the otu_labels for the text values.
 
 
 
 
 
-Display the sample metadata, i.e., an individual's demographic information.
+
+
+
+Then Display the sample metadata, i.e., an individual's demographic information.
 
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
