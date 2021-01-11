@@ -21,7 +21,7 @@ Use the sample_values as the values for the bar chart.
 Then Use otu_ids as the labels for the bar chart.
 
 
-Use otu_labels as the hovertext for the chart.
+Use the otu_labels as the hovertext for the chart.
 
 
 
@@ -30,7 +30,7 @@ You will need to create a bubble chart that displays each sample.
 
 
 
-Use the otu_ids for the x values.
+Then you will use the otu_ids for the x values.
 
 
 Use the sample_values for the y values.
